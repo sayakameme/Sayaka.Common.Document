@@ -1,0 +1,1 @@
+# Sayaka.Common.Document
